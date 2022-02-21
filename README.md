@@ -1,2 +1,2 @@
 # repos_two
-practite to write code
+practice to write code
